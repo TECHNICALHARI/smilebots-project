@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smilebots-project/static/css/main.efa7ca8a.chunk.css",
+    "main.js": "/smilebots-project/static/js/main.145b979a.chunk.js",
+    "main.js.map": "/smilebots-project/static/js/main.145b979a.chunk.js.map",
+    "runtime-main.js": "/smilebots-project/static/js/runtime-main.89a18dd9.js",
+    "runtime-main.js.map": "/smilebots-project/static/js/runtime-main.89a18dd9.js.map",
+    "static/js/2.a7fbf49a.chunk.js": "/smilebots-project/static/js/2.a7fbf49a.chunk.js",
+    "static/js/2.a7fbf49a.chunk.js.map": "/smilebots-project/static/js/2.a7fbf49a.chunk.js.map",
+    "static/js/3.68f17c1a.chunk.js": "/smilebots-project/static/js/3.68f17c1a.chunk.js",
+    "static/js/3.68f17c1a.chunk.js.map": "/smilebots-project/static/js/3.68f17c1a.chunk.js.map",
+    "index.html": "/smilebots-project/index.html",
+    "static/css/main.efa7ca8a.chunk.css.map": "/smilebots-project/static/css/main.efa7ca8a.chunk.css.map",
+    "static/js/2.a7fbf49a.chunk.js.LICENSE.txt": "/smilebots-project/static/js/2.a7fbf49a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a18dd9.js",
+    "static/js/2.a7fbf49a.chunk.js",
+    "static/css/main.efa7ca8a.chunk.css",
+    "static/js/main.145b979a.chunk.js"
+  ]
+}

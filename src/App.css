@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header{
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.header i{
+  color: blue;
+  font-size: 20px;
+  padding-right: 20px;
+}
+.header h2{
+  font-size: 25px;
+  color: blue;
+}
+.contents{
+  width: 50vw;
+  height: auto;
+  border: 1px solid #a09c9c;
+}
+.rooms{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #d6d6d6;
+}
+.rooms-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+.rooms-header i{
+  padding: 0 15px;
+}
+.rooms-header h3{
+  font-weight: 300;
+}
+.rooms-button{
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn-min{
+  background-color: #4572c5;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  outline-style: none;
+  font-size: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.btn-plus{
+  background-color: rgb(247, 68, 68);
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  outline-style: none;
+  font-size: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.children{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 20px;
+}
